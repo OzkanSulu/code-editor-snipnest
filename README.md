@@ -1,42 +1,16 @@
-<h1 align="center">✨ SaaS Code Editor - Next.js 15 ✨</h1>
+// 최신 Next.js 15 버전과 TypeScript 지원
 
-![Demo App](/public/screenshot-for-readme.png)
+// 다중 언어 지원 온라인 IDE (10개 언어)
+// 10개의 프로그래밍 언어를 지원하는 온라인 개발 환경
 
-[Watch Full Tutorial on Youtube](https://youtu.be/fGkRQgf6Scw)
+// 5가지 VSCode 테마로 커스터마이징 가능
+// 사용자가 원하는 스타일로 IDE 테마 변경 가능
 
-Highlights:
+// 성공 & 오류 상태를 인식하는 스마트 출력 처리
+// 실행 결과를 성공 또는 오류 상태에 따라 자동 분류
 
-- 🚀 Tech stack: Next.js 15 + Convex + Clerk + TypeScript
-- 💻 Online IDE with multi-language support (10 languages)
-- 🎨 Customizable experience with 5 VSCode themes
-- ✨ Smart output handling with Success & Error states
-- 💎 Flexible pricing with Free & Pro plans
-- 🤝 Community-driven code sharing system
-- 🔍 Advanced filtering & search capabilities
-- 👤 Personal profile with execution history tracking
-- 📊 Comprehensive statistics dashboard
-- ⚙️ Customizable font size controls
-- 🔗 Webhook integration support
-- 🌟 Professional deployment walkthrough
+// Pro 플랜을 위한 구독 옵션 제공
+// 추가 기능을 이용할 수 있는 유료 구독 옵션
 
-### Setup .env file
-
-```js
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-CONVEX_DEPLOYMENT=
-NEXT_PUBLIC_CONVEX_URL=
-```
-
-### Add these env to Convex Dashboard
-
-```js
-CLERK_WEBHOOK_SECRET=
-LEMON_SQUEEZY_WEBHOOK_SECRET=
-```
-
-### Run the app
-
-```shell
-npm run dev
-```
+// 사용자 지정 가능한 글꼴 크기 조절 기능
+// 가독성을 높이기 위한 글꼴 크기 조정 옵션
